@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 //  Arrays in Java
 
-public class Lecture7 {
+public class Lecture07 {
 
     /*----------------------------------------------------------------
                     Display array elements
